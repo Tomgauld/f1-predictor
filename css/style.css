@@ -1,0 +1,132 @@
+body {
+	background: dimgrey;
+	font-family: "Arial";
+    padding: 40px;
+    margin: 0;
+    text-align: center;
+}
+
+h1 {
+    background: black;
+	color: maroon;
+    display: inline-block;
+	font-size: 46px;
+    text-transform: uppercase;
+    margin: 0;
+    border-radius: 4px;
+    padding: 5px 10px;
+}
+
+ul {
+	color: white;
+	font: 20px "Arial";
+    text-align: center;
+}
+
+.navigation {
+    color: #fff;
+    list-style: none;
+    margin: 40px 0;
+    padding: 0;
+}
+
+.navigation li {
+    display: inline-block;
+    margin: 0 5px;
+    background: silver;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.navigation li a {
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.navigation li a:hover {
+    text-decoration: underline;
+}
+
+.teams {
+    margin: 0 auto;
+    text-align: center;
+    width: 200px;
+}
+
+.team {
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+}
+
+.team-mercedes {
+    background: silver;
+}
+
+.team-ferrari {
+    background: #cc0000;
+    color: #fff;
+}
+.team-red-bull {
+    background: darkblue;
+    color: #fff;
+}
+.team-mclaren {
+    background: orange;
+}
+.team-renault {
+    background: yellow;
+}
+.team-alfa-romeo {
+    background: darkred;
+    color: #fff;
+}
+.team-toro-rosso {
+    background: blue;
+    color: #fff;
+}
+.team-racing-point {
+    background: hotpink;
+}
+.team-haas {
+    background: brown;
+    color:#fff;
+}
+.team-williams{
+    background: white;
+}
+.position {
+    margin-left: 5px;
+}
+
+.blog {
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    max-width: 750px;
+    margin: 0 auto;
+}
+/*
+
+        body {
+            background: beige;
+            font: "Arial";
+        }
+        h1 {
+            color: maroon;
+            font-size: 46px;
+            text-align: center;
+        }
+        h2 {
+            color: maroon;
+            font-size: 46px;
+            text-align: center;
+        }
+        ul {
+            font: 20px "Arial";
+            text-align: center;
+        }
+*/
